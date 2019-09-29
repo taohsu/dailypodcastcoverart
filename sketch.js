@@ -1,4 +1,4 @@
-var url="https://itunes.apple.com/fr/search?term=podcast&genreId=1301&limit=100";
+var url="https://itunes.apple.com/fr/search?term=podcast&genreId=1301&limit=200";
 
 var feed;
 var feeds = [];
